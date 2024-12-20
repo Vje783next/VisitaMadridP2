@@ -17,7 +17,7 @@ section {
   }
 }
 
-h2, h3 {
+.article__title {
   animation: titleAnimated 2s ease-out forwards;
 }
 
