@@ -22,6 +22,17 @@ a:focus {
   outline: 1px solid var(--container-color);
 }
 
+.article__title {
+  padding: 10px;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.gpt,
+.pexels {
+  font-weight: bold;
+  color: var(--main-color);
+}
 
 p {
   padding: 10px 0;
